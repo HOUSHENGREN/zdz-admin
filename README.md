@@ -1,6 +1,8 @@
-# zdz-admin
+## zdz-admin
 
 > A Vue.js project
+
+aim to imitate vue-element-admin
 
 ## Build Setup
 
